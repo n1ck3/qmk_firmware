@@ -1,0 +1,17 @@
+{
+    "manufacturer": "splitkb.com",
+    "url": "https://splitkb.com/products/aurora-corne-pcb-kit",
+    "maintainer": "splitkb",
+    "usb": {
+        "vid": "0x534B",
+        "pid": "0x4143",
+        "device_version": "1.0.0"
+    },
+    "development_board": "promicro_rp2040",
+    "split": {
+        "enabled": true
+    },
+    "build": {
+        "lto": true
+    }
+}
