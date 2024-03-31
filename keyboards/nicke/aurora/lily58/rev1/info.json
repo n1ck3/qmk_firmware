@@ -1,7 +1,8 @@
 {
     "keyboard_name": "Aurora Lily58 rev1",
     "usb": {
-        "pid": "0xB4C2"
+        "vid": "0x4E48",
+        "pid": "0x414C"
     },
     "features": {
         "mousekey": true,

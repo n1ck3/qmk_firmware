@@ -3,10 +3,11 @@
     "url": "https://splitkb.com",
     "maintainer": "splitkb",
     "usb": {
-        "vid": "0x8D1D",
+        "vid": "0x4E48",
+        "pid": "0x414C",
         "device_version": "1.0.0"
     },
-    "development_board": "elite_c",
+    "development_board": "promicro_rp2040",
     "split": {
         "enabled": true
     },
